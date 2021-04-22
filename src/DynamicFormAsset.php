@@ -1,8 +1,8 @@
 <?php
 /**
- * @link      https://github.com/wbraganca/yii2-dynamicform
- * @copyright Copyright (c) 2014 Wanderson Bragança
- * @license   https://github.com/wbraganca/yii2-dynamicform/blob/master/LICENSE
+ * @link      https://github.com/szelepke/yii2-dynamicform
+ * @copyright Copyright (c) 2014 Szelepcsenyi Zsolt
+ * @license   https://github.com/szelepke/yii2-dynamicform/blob/master/LICENSE
  */
 
 namespace szelepke\dynamicform;
@@ -10,7 +10,7 @@ namespace szelepke\dynamicform;
 /**
  * Asset bundle for dynamicform Widget
  *
- * @author Wanderson Bragança <wanderson.wbc@gmail.com>
+ * @author Szelepcsenyi Zsolt <szelepcsenyi.zsolt@gmail.com>
  */
 class DynamicFormAsset extends \yii\web\AssetBundle
 {
