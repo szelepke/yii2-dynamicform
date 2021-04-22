@@ -19,9 +19,9 @@
     },
     "authors": [
         {
-            "name": "Wanderson Bragança",
-            "email": "wanderson.wbc@gmail.com",
-            "homepage": "http://wbraganca.com"
+            "name": "Szelepcsenyi Zsolt",
+            "email": "szelepcsenyi.zsolt@gmail.com",
+            "homepage": "http://github.com/szelepke"
         }
     ],
     "require": {
